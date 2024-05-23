@@ -1,4 +1,4 @@
-# Backstage - você mais próximo do seu artista.
+# Backstage - Você mais próximo do seu artista.
 
 Este projeto é um app de música simples em React Native, que permite ao usuário navegar por gêneros musicais, ouvir músicas no YouTube e avaliar suas faixas favoritas.
 
@@ -38,7 +38,7 @@ Tela dedicada para exibir as avaliações salvas.
 
 Utiliza a biblioteca react-native-reanimated para criar animações suaves para entrada e saída de elementos.
 
-Visualização de Avaliações:
+### Visualização de Avaliações:
 
 Tela que mostra as avaliações salvas, com o título da música e a nota atribuída.
 
