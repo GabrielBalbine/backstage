@@ -1,4 +1,4 @@
-# Backstage - Você mais próximo do seu artista.
+![image](https://github.com/GabrielBalbine/backstage/assets/103226641/d5a6c08c-17b4-4b24-9443-47584415ea07)# Backstage - Você mais próximo do seu artista.
 
 Este projeto é um app de música simples em React Native, que permite ao usuário navegar por gêneros musicais, ouvir músicas no YouTube e avaliar suas faixas favoritas.
 
@@ -12,18 +12,28 @@ Login e Registro de usuários com AsyncStorage para armazenar credenciais.
 
 Criação de telas para login, registro, seleção de gênero, reprodução e avaliação.
 
+#### Tela de Registro
+![image](https://github.com/GabrielBalbine/backstage/assets/103226641/e74a6022-cad3-4f22-8dd6-3dcd952fe9b7)
+
+#### Tela de Login
+![image](https://github.com/GabrielBalbine/backstage/assets/103226641/b22b7515-4eea-4f89-9c0b-05472beb8d34)
+
 Utilização de NavigationContainer, createBottomTabNavigator e createStackNavigator para navegação entre telas.
 
 ### Seleção de Gênero:
 
 Apresenta uma lista de gêneros musicais com botões para navegar para a tela de reprodução.
 
+#### Tela de Seleção de Gênero
+![image](https://github.com/GabrielBalbine/backstage/assets/103226641/e09e0ba2-bab3-4481-ac66-396fdb538ce9)
 
 ### Reprodução de Música:
 
 Seleciona uma música aleatória do gênero escolhido.
 Nesse caso, selecionamos "FAV"
 
+#### Opções na música
+![image](https://github.com/GabrielBalbine/backstage/assets/103226641/3313605d-d1bf-4281-bfaa-f2a15e4fd1f5)
 
 Exibe o título e o artista da música.
 
@@ -31,7 +41,8 @@ Permite abrir a música no YouTube através do botão "Ouvir no YouTube".
 
 ### Avaliação:
 
-
+#### Tela de Avaliação da música
+![image](https://github.com/GabrielBalbine/backstage/assets/103226641/59c74a99-4446-4cfc-9f1e-f3f1390d8850)
 
 Permite que o usuário avalie a música de 1 a 5 estrelas.
 
@@ -45,7 +56,8 @@ Utiliza a biblioteca react-native-reanimated para criar animações suaves para 
 
 Tela que mostra as avaliações salvas, com o título da música e a nota atribuída.
 
-
+#### Tela com availiações feitas pelo usuário
+![image](https://github.com/GabrielBalbine/backstage/assets/103226641/8706eeba-fba6-4494-907b-7a7be1228648)
 
 Caso não haja avaliações, mostra uma mensagem informando.
 
