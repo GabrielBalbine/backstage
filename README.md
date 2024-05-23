@@ -1,4 +1,4 @@
-# backstage - você mais próximo do seu artista.
+# Backstage - você mais próximo do seu artista.
 
 Este projeto é um app de música simples em React Native, que permite ao usuário navegar por gêneros musicais, ouvir músicas no YouTube e avaliar suas faixas favoritas.
 
@@ -53,7 +53,7 @@ content_copy
 
 ### Clone este repositório:
 
-git clone https://github.com/seu-usuario/music-app.git
+git clone https://github.com/gabrielbalbine/backstage
 content_copy
 
 ### Navegue para o diretório do projeto:
