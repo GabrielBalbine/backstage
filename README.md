@@ -1,4 +1,4 @@
-![image](https://github.com/GabrielBalbine/backstage/assets/103226641/d5a6c08c-17b4-4b24-9443-47584415ea07)# Backstage - Você mais próximo do seu artista.
+# Backstage - Você mais próximo do seu artista.
 
 Este projeto é um app de música simples em React Native, que permite ao usuário navegar por gêneros musicais, ouvir músicas no YouTube e avaliar suas faixas favoritas.
 
