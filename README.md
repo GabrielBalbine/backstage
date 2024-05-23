@@ -13,7 +13,7 @@ Login e Registro de usuários com AsyncStorage para armazenar credenciais.
 Criação de telas para login, registro, seleção de gênero, reprodução e avaliação.
 
 #### Tela de Registro
-![image](https://github.com/GabrielBalbine/backstage/assets/103226641/2760a251-0fcc-4c2a-9513-5fbcbcc0a2c6)
+![image](https://github.com/GabrielBalbine/backstage/assets/103226641/c2e380b3-e65a-49ee-86e5-84dc7a49fab3)
 
 
 #### Tela de Login
